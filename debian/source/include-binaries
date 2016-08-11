@@ -6,3 +6,5 @@ debian/modules/nginx-rtmp-module/test/www/jwplayer_old/player.swf
 debian/modules/nginx-rtmp-module/test/rtmp-publisher/RtmpPlayerLight.swf
 debian/modules/nginx-rtmp-module/test/rtmp-publisher/RtmpPlayer.swf                
 debian/modules/nginx-rtmp-module/test/rtmp-publisher/RtmpPublisher.swf
+debian/modules/ngx_pagespeed/psol/lib/Release/linux/ia32/pagespeed_js_minify
+debian/modules/ngx_pagespeed/psol/lib/Release/linux/x64/pagespeed_js_minify
