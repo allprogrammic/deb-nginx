@@ -1,3 +1,9 @@
+nginx (1.10.1-1~allprogrammic+1.0) stable; urgency=medium
+
+  * Support openssl 1.0.2 for http2 w/ ALPN
+
+ -- William Pottier <wpottier@allprogrammic.com>  Thu, 11 Aug 2016 11:42:50 +0000
+
 nginx (1.10.1-1~dotdeb+8.2) stable; urgency=medium
 
   * Generate dbgsym packages only if dh_strip supports it
