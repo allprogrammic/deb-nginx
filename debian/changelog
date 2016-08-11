@@ -1,4 +1,4 @@
-nginx (1.10.1-1~allprogrammic+10.0) stable; urgency=medium
+nginx (1.10.1-1~dotdeb+8.2+allprogrammic) stable; urgency=medium
 
   * Support openssl 1.0.2 for http2 w/ ALPN
 
